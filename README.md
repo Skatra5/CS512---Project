@@ -12,4 +12,9 @@ This project utilizes datasets from multiple sources to perform style transfer w
 2. **ChatGPT Sentiment Analysis Dataset**  
    - Source: [Kaggle - ChatGPT Sentiment Analysis Dataset](https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis/data)  
    - Description: A dataset that includes thought on ChatGPT  with labeled sentiment.
+  
+3. We use glove glove.6B.300d embedding to preprocess word token into embedding
+
+4. The data should be places in data folders
+
 
